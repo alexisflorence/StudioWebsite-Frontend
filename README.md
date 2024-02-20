@@ -4,7 +4,7 @@ Alexis Florence
 
 Single Team Member responsible for all contributions - Alexis Florence
 
-CS5610 - Summer 2022 - Mullen - Final Group Project 
+CS5610 Web Development - Summer 2022 - Mullen - Final Group Project 
 
 
 This Web Application is built for a dance studio that needs a platform for client registration. 
