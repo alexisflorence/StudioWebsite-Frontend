@@ -1,0 +1,116 @@
+p.description {
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 1.3em;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 100px;
+    padding-bottom: 20px;
+    padding-left: 100px;
+  }
+
+  div.favoritesPanel{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    padding-top: 25px;
+    padding-right: 100px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+.classRow{
+  margin-top: 15px;
+  position: absolute;
+}
+
+.card {
+  margin-top: 15px;
+}
+
+
+
+.classesListCard{
+  width: 36rem;
+  height: 15rem;
+  background-color: white;
+}
+
+div.classlist{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 25px;
+  padding-right: 100px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+}
+
+.titlebody{
+  position: absolute;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: inherit;
+  font-weight: bold;
+}
+
+.classname{
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: inherit;
+  font-weight: bold;
+  font-weight: bolder;
+}
+
+div.poster{
+  margin:10px;
+}
+
+.smallPoster{
+  user-select:none;
+  width: 50px;
+  height: 50px;
+  display: block;
+  margin-left: auto;
+
+}
+
+.square {
+  width: 69em;
+  height: 2em;
+  filter: drop-shadow(2px 4px 6px black);
+  position: absolute;
+  padding: 0;
+}
+
+.buttonRegister {
+  width: 13em;
+  height: 4em;
+  left: 375px;
+  top: 12px;
+  /* filter: drop-shadow(2px 4px 6px black); */
+  position: absolute;
+  padding: 0;
+  float: right;
+  text-align: center;
+  margin-right: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: inherit;
+  font-weight: bold;
+  font-weight: bolder;
+
+}
+
+.buttonNext {
+  position:absolute;
+  bottom: 20%;
+  right:20%;
+}
+
+img.reg_photos{
+  height: 400px;
+    width: 400px;
+}
+

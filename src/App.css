@@ -1,0 +1,102 @@
+
+.App {
+  background-color: lavenderblush;
+  min-height: 500vh;
+  padding-bottom: 100px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+.navbar-custom {
+	background-color: #1c2120;
+  margin-top: 0px;
+  background-image: url("../public/images/1.png");
+  size: 50%;
+  min-height: 350px; 
+}
+
+.dropdown-toggle {
+  height:50px;
+  /* padding-right:5px; */
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  background-color: #a7adad;
+  color: black;  
+}
+
+
+.dropdown-menu {
+  background-color: azure;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  text-align: center;
+  background-color: #a7adad;
+  color: black;  
+}
+
+.dropdown {
+  background-color: azure;
+}
+
+.text-to-right{
+  direction: rtl;
+  text-align: right;
+}
+
+.brand{
+  margin-bottom: 75px
+}
+
+.navbar-brand.brand{
+  color: white;
+  padding: 0px;
+  height:50px;
+  font-family: "Lucida Console", "Courier New", "Bold", monospace;
+
+}
+
+.navbar-nav.nav-link.link{
+  color: white!important;
+}
+
+.navItem{
+  color: white!important;
+}
+
+.nav-link{
+  padding: 0px;
+}
+
+.main-container{
+  margin-top: 10px
+}
+
+
+img.studioLogo{
+  height:200px;
+  padding-bottom: 50px;
+  padding-top: 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+div.errormessage{
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 25px;
+  padding-right: 100px;
+  padding-bottom: 10px;
+  padding-left: 100px;
+}
+
